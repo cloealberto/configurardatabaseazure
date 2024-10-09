@@ -1,4 +1,4 @@
-# 🎲Resumo do Módulo: Configurando uma Instância de Banco de Dados na Azure☁
+# ⚙🎲Resumo do Módulo: Configurando uma Instância de Banco de Dados na Azure☁
 
 No módulo **"Configurando uma Instância de Banco de Dados na Azure"** do curso **Azure Essentials**, aprendemos:
 
